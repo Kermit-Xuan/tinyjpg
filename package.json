@@ -10,7 +10,8 @@
   },
   "bin": {
     "tinyjpg": "bin/tinyjpg.js",
-    "tinyjpg-config": "bin/tinyjpg-config.js"
+    "tinyjpg-config": "bin/tinyjpg-config.js",
+    "tinyjpg-compress": "bin-tinyjpg-compress.js"
   },
   "dependencies": {
     "chalk": "^2.3.0",
