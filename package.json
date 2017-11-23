@@ -1,10 +1,13 @@
 {
   "name": "tinyjpg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "compress images by tinypng api",
   "main": "index.js",
   "author": "lixuan",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/Kermit-Xuan/tinyjpg.git"
+  },
   "bin": {
     "tinyjpg": "bin/tinyjpg.js",
     "tinyjpg-config": "bin/tinyjpg-config.js"
