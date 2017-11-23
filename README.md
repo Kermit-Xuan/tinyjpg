@@ -1,1 +1,1 @@
-tinypng
+tinyjpg
