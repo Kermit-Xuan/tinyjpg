@@ -1,6 +1,6 @@
 {
   "name": "tinyjpg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "compress images by tinypng api",
   "main": "index.js",
   "author": "lixuan",
@@ -11,7 +11,7 @@
   "bin": {
     "tinyjpg": "bin/tinyjpg.js",
     "tinyjpg-config": "bin/tinyjpg-config.js",
-    "tinyjpg-compress": "bin-tinyjpg-compress.js"
+    "tinyjpg-compress": "bin/tinyjpg-compress.js"
   },
   "dependencies": {
     "chalk": "^2.3.0",
