@@ -1,6 +1,6 @@
 {
   "name": "tinyjpg",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "compress images by tinypng api",
   "main": "index.js",
   "author": "lixuan",
