@@ -8,6 +8,9 @@
   "repository": {
     "url": "https://github.com/Kermit-Xuan/tinyjpg.git"
   },
+  "keywords": [
+    "tiny", "compress", "image-compress"
+  ],
   "bin": {
     "tinyjpg": "bin/tinyjpg.js",
     "tinyjpg-config": "bin/tinyjpg-config.js",
