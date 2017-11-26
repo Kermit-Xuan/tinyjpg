@@ -1,6 +1,15 @@
 # Tinyjpg
 
-## 1. config setting:
+## 1. install:
+
+``` shell
+$ npm i -g tinyjpg
+```
+or
+``` shell
+$ yarn global add tinyjpg
+```
+## 2. config setting:
 
 > set api key
 
@@ -31,8 +40,7 @@ $ tinyjpg config remove ignore <folder>
 ``` shell
 $ tinyjpg config list
 ```
-
-## 2. compress image:
+## 3. compress image:
 
 > compress file
 
