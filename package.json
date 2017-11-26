@@ -1,6 +1,6 @@
 {
   "name": "tinyjpg",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "compress images by tinypng api",
   "main": "index.js",
   "author": "lixuan",
@@ -9,7 +9,9 @@
     "url": "https://github.com/Kermit-Xuan/tinyjpg.git"
   },
   "keywords": [
-    "tiny", "compress", "image-compress"
+    "tiny",
+    "compress",
+    "image-compress"
   ],
   "bin": {
     "tinyjpg": "bin/tinyjpg.js",
